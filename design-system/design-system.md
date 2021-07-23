@@ -1,5 +1,5 @@
 <div>
-  <img src="../images/YO-mejorado-circle.jpg" style="border-radius: 50%;">
+  <img src="../images/me.png" style="border-radius: 50%;">
   <img src="../images/Lo-leiste-de-un-aguacate.png" style="border-radius: 50%;">
 </div>
 
@@ -20,6 +20,7 @@
       <li>vs. Librería de Componentes</li>
       <li>Leyes de UX</li>
       <li>Sistemas de Diseño existentes</li>
+      <li>Conclusiones...</li>
       <li>...y memes!</li>
       <li>Demo XD</li>
     </ul>
@@ -27,6 +28,14 @@
   <div style="display: flex; justify-content: center; align-items: center; margin-left: 2rem;">
     <img src="../images/memes-memes-everywhere-5a9c50.jpg" style="width: 550px; height: 350px;" >
   </div>
+</div>
+
+---
+
+# Primero que nada...
+
+<div style="display: flex; justify-content: center; align-items: center; margin-left: 2rem;">
+  <img src="../images/buenas-tardes.gif" style="width: 550px; height: 550px;">
 </div>
 
 ---
@@ -82,6 +91,13 @@
 
 ---
 
+<div style="display: flex; justify-content: center; align-items: center; margin-top: 20rem;">
+  <h1>✨✨✨✨ Usabilidad ✨✨✨✨</h1>
+</div>
+
+
+---
+
 # Definición "aguacatística" 🥑
 
 <div class="columns">
@@ -111,6 +127,23 @@
 </div>
 <div style="display: flex; justify-content: center; align-items: center; margin-top: 1rem;">
   <img src="../images/chakra-ui.png" style="width: 300px; height: 100px;">
+</div>
+
+---
+
+# Conclusiones
+
+<div class="columns">
+  <div>
+    <ul>
+      <li>La usabilidad como finalidad y no como característica</li>
+      <li>Enfocarse en lo importante</li>
+      <li>Inversión del control</li>
+    </ul>
+  </div>
+  <div style="display: flex; justify-content: center; align-items: center; margin-top: 1rem;">
+    <img src="../images/in-conclusion.jpg" style="width: 500px; height: 350px;">
+  </div>
 </div>
 
 ---
